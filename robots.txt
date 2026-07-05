@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://riisalthkraa.github.io/pack-devis-btp/sitemap.xml
